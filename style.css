@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly ;
+}
+button{
+    width: 30%;
+    padding: .9375rem 1.875rem;
+    align-self: center;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
+h1{
+ font-weight: 700
+ ;
+    font-size: 5rem;
+}
